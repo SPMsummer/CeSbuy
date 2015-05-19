@@ -1,0 +1,4 @@
+
+
+	•	retain values if registration fails
+	•	 facebook like search
